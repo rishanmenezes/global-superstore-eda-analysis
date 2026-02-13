@@ -1,10 +1,13 @@
 PROJECT TITLE
+
 Global Superstore Data Analysis
 
 PROJECT OVERVIEW
+
 This project is an Exploratory Data Analysis (EDA) of the Global Superstore dataset, a major retail dataset containing over 50,000 transaction records. The goal of this analysis is to understand sales trends, profitability, and operational costs across different international markets. By processing this data, we identify key growth areas, seasonal patterns, and high-performing customer segments to support business decision-making.
 
 DATASET DESCRIPTION
+
 The dataset ("Global Superstore 2016") contains three main tables:
 1. Orders: The primary dataset with 51,290 rows containing transaction details like Order Date, Sales, Profit, Discount, and Customer Information.
 2. Returns: A record of orders that were returned, linked by Order ID and Region.
