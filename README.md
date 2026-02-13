@@ -1,10 +1,8 @@
 PROJECT TITLE
-
-Global Superstore Data Analysis
+- Global Superstore Data Analysis
 
 PROJECT OVERVIEW
-
-This project is an Exploratory Data Analysis (EDA) of the Global Superstore dataset, a major retail dataset containing over 50,000 transaction records. The goal of this analysis is to understand sales trends, profitability, and operational costs across different international markets. By processing this data, we identify key growth areas, seasonal patterns, and high-performing customer segments to support business decision-making.
+- This project is an Exploratory Data Analysis (EDA) of the Global Superstore dataset, a major retail dataset containing over 50,000 transaction records. The goal of this analysis is to understand sales trends, profitability, and operational costs across different international markets. By processing this data, we identify key growth areas, seasonal patterns, and high-performing customer segments to support business decision-making.
 
 DATASET DESCRIPTION
 
@@ -61,8 +59,7 @@ KEY INSIGHTS
 - Operational Costs: We identified specific countries where the "Total Cost" of operations is disproportionately high compared to sales.
 
 CONCLUSION
-The analysis confirms that the Global Superstore is growing year-over-year, with the Consumer segment being the primary revenue driver. However, operational costs in certain regions and the impact of discounts on profit margins require careful management. This project demonstrates the ability to handle large datasets and derive meaningful business intelligence using Python.
+-The analysis confirms that the Global Superstore is growing year-over-year, with the Consumer segment being the primary revenue driver. However, operational costs in certain regions and the impact of discounts on profit margins require careful management. This project demonstrates the ability to handle large datasets and derive meaningful business intelligence using Python.
 
 AUTHOR
-
-Rishan Menezes
+-Rishan Menezes
