@@ -5,7 +5,6 @@ PROJECT OVERVIEW
 - This project is an Exploratory Data Analysis (EDA) of the Global Superstore dataset, a major retail dataset containing over 50,000 transaction records. The goal of this analysis is to understand sales trends, profitability, and operational costs across different international markets. By processing this data, we identify key growth areas, seasonal patterns, and high-performing customer segments to support business decision-making.
 
 DATASET DESCRIPTION
-
 The dataset ("Global Superstore 2016") contains three main tables:
 1. Orders: The primary dataset with 51,290 rows containing transaction details like Order Date, Sales, Profit, Discount, and Customer Information.
 2. Returns: A record of orders that were returned, linked by Order ID and Region.
@@ -29,7 +28,7 @@ STEPS PERFORMED
    - Created a "Total Cost" column (Sales - Profit) to analyze spending.
    - Calculated "Discount Amount" to see how much revenue was given up in promotions.
 4. Data Visualization: Used Matplotlib to create bar charts, line graphs, and pie charts to visualize trends.
-5. Insight Generation: derived specific business metrics like year-over-year growth and regional comparisons.
+5. Insight Generation: Derived specific business metrics like year-over-year growth and regional comparisons.
 
 TOOLS AND LIBRARIES USED
 - Python
@@ -59,7 +58,7 @@ KEY INSIGHTS
 - Operational Costs: We identified specific countries where the "Total Cost" of operations is disproportionately high compared to sales.
 
 CONCLUSION
--The analysis confirms that the Global Superstore is growing year-over-year, with the Consumer segment being the primary revenue driver. However, operational costs in certain regions and the impact of discounts on profit margins require careful management. This project demonstrates the ability to handle large datasets and derive meaningful business intelligence using Python.
+- The analysis confirms that the Global Superstore is growing year-over-year, with the Consumer segment being the primary revenue driver. However, operational costs in certain regions and the impact of discounts on profit margins require careful management. This project demonstrates the ability to handle large datasets and derive meaningful business intelligence using Python.
 
 AUTHOR
--Rishan Menezes
+- Rishan Menezes
