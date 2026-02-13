@@ -64,4 +64,5 @@ CONCLUSION
 The analysis confirms that the Global Superstore is growing year-over-year, with the Consumer segment being the primary revenue driver. However, operational costs in certain regions and the impact of discounts on profit margins require careful management. This project demonstrates the ability to handle large datasets and derive meaningful business intelligence using Python.
 
 AUTHOR
+
 Rishan Menezes
